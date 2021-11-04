@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jssol
-- 👀 I’m interested in making money
-- 🌱 I’m currently learning how to make more money
-- 💞️ I’m looking to collaborate on lucrative projects
+- 👋 Hi, I’m Jonathan Sivahera
+- 👀 I’m interested in learning new things aka how to make more money!
+- 🌱 I’m currently learning coding
+- 💞️ I have set the goal to be employed in tech for the year to come
 - 📫 My mail is jsivahera@icloud.com
 
 <!---
