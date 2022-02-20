@@ -1,34 +1,29 @@
 # Hi there, I’m Jonathan 👋
 
-<ul style="padding:0.25em;list-style:none;display:flex;width:15%;justify-content:space-between">
-  <li><a href="https://www.twitter.com/jsivahera" style="text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg"/></a></li>
-  <li style="margin-left:0.5em"><a href="https://www.linkedin.com/jsivahera" style="color:white;text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/></a></li>
-  <li style="margin-left:0.5em"><a href="https://www.facebook.com/jsivahera" style="color:white;text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg"/></a></li>
-</ul>
+![my-headline-gif](.assets/headline.gif)
 
-```
-Hello World! I'm Jonathan Sivahera
-```
-- I am a React lover, an anime fan, love to listen and learn.
-- 👀 I am interested in learning new things.
-- 🌱 I am available for hire.
-- 📫 My mail is jsivahera@icloud.com
+### More about me:
+
+- 🚀 I am a React lover, an Anime fan, love to listen and learn
+- 👀 I am interested in learning new things
+- 🌱 I am available for hire
+- 📫 My mail is [jsivahera@icloud.com](jsivahera@icloud.com)
 
 ---
 
-### Languages and Tools:
+### My Profile in numbers:
 
+![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jssol)
 
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=jssol&repo=dev.to)](https://github.com/jssol/dev.to)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssol)](https://github.com/jssol/github-readme-stats)
 
 ---
 
 ### Connect with me:
 
-<ul style="margin-top:1em;padding:0.25em;list-style:none;display:flex;width:15%;justify-content:space-between">
-  <li><a href="https://www.twitter.com/jsivahera" style="text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg"/></a></li>
-  <li style="margin-left:0.5em"><a href="https://www.linkedin.com/jsivahera" style="color:white;text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/></a></li>
-  <li style="margin-left:0.5em"><a href="https://www.facebook.com/jsivahera" style="color:white;text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg"/></a></li>
-</ul>
+
 
 ---
 
