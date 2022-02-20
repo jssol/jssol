@@ -2,6 +2,8 @@
 
 ![my-headline-gif](.assets/headline.gif)
 
+![](https://img.shields.io/twitter/follow/jsivahera?color=blue&style=for-the-badge)
+
 ### More about me:
 
 - 🚀 I am a React lover, an Anime fan, love to listen and learn
@@ -18,11 +20,6 @@
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=jssol&repo=dev.to)](https://github.com/jssol/dev.to)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssol)](https://github.com/jssol/github-readme-stats)
-
----
-
-### Connect with me:
-
 
 
 ---
