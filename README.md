@@ -15,7 +15,7 @@
 
 ### My Profile in numbers:
 
-![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jssol) [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssol)](https://github.com/jssol/github-readme-stats) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jssol) [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssol)](https://github.com/jssol/github-readme-stats) ![visitors](https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue)
 
 
 ---
