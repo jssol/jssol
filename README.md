@@ -1,6 +1,6 @@
 # Hi there, I’m Jonathan 👋
 
-<section style="background-image:url(./assets/headlined.svg);background-repeat:no-repeat;background-size:cover;width:100%;aspect-ratio:3/1;" >
+<section style="background-image:url(./assets/headlined.svg);background-repeat:no-repeat;background-size:cover;width:100%;height:480px;" >
 Work
 </section>
 
