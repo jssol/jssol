@@ -16,7 +16,13 @@ Hello World! I'm Jonathan Sivahera
 
 ---
 
-### Connect with me
+### Languages and Tools:
+
+
+
+---
+
+### Connect with me:
 
 <ul style="margin-top:1em;padding:0.25em;list-style:none;display:flex;width:15%;justify-content:space-between">
   <li><a href="https://www.twitter.com/jsivahera" style="text-decoration:none;"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg"/></a></li>
