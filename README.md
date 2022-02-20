@@ -1,6 +1,8 @@
 # Hi there, I’m Jonathan 👋
 
-![my-headline-gif](./assets/headline.gif)
+<section style="background-image:url(./assets/headlined.svg);background-repeat:no-repeat;background-size:cover;width:100%;aspect-ratio:3/1;" >
+Work
+</section>
 
 ![](https://img.shields.io/twitter/follow/jsivahera?color=blue&style=for-the-badge)
 
