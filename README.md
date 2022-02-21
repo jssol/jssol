@@ -16,7 +16,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jssol)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsivahera)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/jsivahera)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jsivahera@icloud.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sivaherakamsjonathan68@gmail.com)
+[![Icloud](https://img.shields.io/badge/-Icloud-c14438?style=flat&logo=Icloud&logoColor=white)](mailto:jsivahera@icloud.com)
 
 ### More about me:
 
