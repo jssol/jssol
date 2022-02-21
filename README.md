@@ -1,6 +1,6 @@
-# Hi there, I’m Jonathan 👋
+# Hi, I’m Jonathan 👋
 
-![](./assets/headline.svg)
+![github-headline](./assets/github-headline.jpg)
 
 ![](https://img.shields.io/twitter/follow/jsivahera?color=blue&style=for-the-badge) ![visitors](https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue)
 
