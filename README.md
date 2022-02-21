@@ -5,6 +5,10 @@
 <center style="left:50%;transform:translateX(-50%);">
   <img src="https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue" alt="my-stats"/>
 </center>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jssol/count.svg" />
+</p>
 
 ### Get in touch:
 
