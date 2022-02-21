@@ -2,7 +2,24 @@
 
 ![github-headline](./assets/github-headline.jpg)
 
-<center><img src="https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue" alt="my-stats"/></center>
+<center>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue" alt="my-stats"/>
+</center>
+
+#### :computer: Programming languages and tools: 
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/html/html-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/css/css-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass/sass-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwind/tailwind-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redux/redux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/react/react-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 
 ### Get in touch:
 
