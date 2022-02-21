@@ -1,4 +1,4 @@
-## Hi there, I’m Jonathan 👋
+## Hi there 👋
 
 ![github-headline](./assets/github-headline.jpg)
 
