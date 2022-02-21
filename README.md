@@ -2,6 +2,8 @@
 
 ![github-headline](./assets/github-headline.jpg)
 
+<center><img src="https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue" alt="my-stats"/></center>
+
 ### Get in touch:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jssol)
@@ -19,8 +21,6 @@
 ---
 
 ### My Profile in numbers:
-
-<div><h4>Visitor's count</h4><img src="https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue" alt="my-stats"/></div>
 
 <details>
   <summary>Most Used Languages</summary>
