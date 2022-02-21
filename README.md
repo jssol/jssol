@@ -2,7 +2,12 @@
 
 ![github-headline](./assets/github-headline.jpg)
 
-![](https://img.shields.io/twitter/follow/jsivahera?color=blue&style=for-the-badge) ![visitors](https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue)
+### Get in touch:
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jssol)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsivahera)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/jsivahera)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jsivahera@icloud.com)
 
 ### More about me:
 
@@ -14,6 +19,8 @@
 ---
 
 ### My Profile in numbers:
+
+<div><h4>Visitor's count</h4><img src="https://visitor-badge.glitch.me/badge?page_id=jssol&left_color=green&right_color=blue" alt="my-stats"/></div>
 
 <details>
   <summary>Most Used Languages</summary>
