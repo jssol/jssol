@@ -16,8 +16,9 @@
 ### My Stats:
 
 <details>
-#### Most Used Languages:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssol)](https://github.com/jssol/github-readme-stats)
+  <h4>Most Used Languages</h4>
+  <div><a href="https://github.com/jssol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssol" alt="image-stat"></a></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssol)](https://github.com/jssol/github-readme-stats)
 </details> 
 <details>
 ![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jssol)
