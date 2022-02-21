@@ -25,9 +25,6 @@
   <div><img src="https://github-readme-stats.vercel.app/api?username=jssol" alt="my-stats"/></div>
 </details>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
-
-
 ---
 
 ### Latest Blog Posts
