@@ -13,15 +13,19 @@
 
 ---
 
-### My Stats:
+### My Profile in numbers:
 
 <details>
   <summary>Most Used Languages</summary>
   <div><a href="https://github.com/jssol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssol" alt="image-stat"></a></div>
 </details> 
+  
 <details>
-![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jssol)
-</details>[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+  <summary>Jonathan's Github Stats</summary>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=jssol" alt="my-stats"/></div>
+</details>
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 
 ---
