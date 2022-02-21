@@ -7,6 +7,10 @@
   <img src="https://profile-counter.glitch.me/jssol/count.svg" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+</p>
+
 ### Get in touch:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jssol)
