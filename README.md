@@ -21,10 +21,10 @@
 
 ### More about me:
 
-- 🚀 I am a React lover, an Anime fan, love to listen and learn
-- 👀 I am interested in learning new things
-- 🌱 I am available for hire
-- 📫 My mail is [jsivahera@icloud.com](jsivahera@icloud.com)
+- 🚀 I am a React lover, an Anime fan, love to listen and learn.
+- 👀 I am interested in learning new things.
+- 🌱 I am available for hire.
+- 📫 My mail is [jsivahera@icloud.com](jsivahera@icloud.com).
 
 ---
 
