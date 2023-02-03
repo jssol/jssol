@@ -13,9 +13,7 @@
 
 ---
 
-### My Stats:
-
-<section style="display:flex; align-items:center;">
+<section class="stats">
   <section>
     <h3>Most Used Languages</h3>
     <div><a href="https://github.com/jssol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssol" alt="image-stat"></a></div>
@@ -25,6 +23,20 @@
     <div><img src="https://github-readme-stats.vercel.app/api?username=jssol" alt="my-stats"/></div>
   </section>
 </section>
+
+<style>
+  .stats {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .stats {
+      flex-direction: row;
+    }
+  }
+</style>
 
 ---
 
