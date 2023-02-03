@@ -13,7 +13,7 @@
 
 ---
 
-<section class="stats">
+<section style="display: flex;">
   <section>
     <h3>Most Used Languages</h3>
     <div><a href="https://github.com/jssol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssol" alt="image-stat"></a></div>
