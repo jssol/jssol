@@ -2,11 +2,6 @@
 
 ![github-headline](./assets/github-headline.jpg)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jssol/count.svg" />
-</p>
-
 <p align="center">
   <a href="https://github.com/sponsors/jssol" title="Sponsor Jonathan Sivahera"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 </p>
