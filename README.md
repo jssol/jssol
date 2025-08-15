@@ -18,6 +18,3 @@
     <div><img src="https://github-readme-stats.vercel.app/api?username=jssol" alt="my-stats"/></div>
   </section>
 </section>
-
-- [Hello World!](https://dev.to/jssol/hello-world-4o12)
-<!-- BLOG-POST-LIST:END -->
