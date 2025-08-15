@@ -19,9 +19,5 @@
   </section>
 </section>
 
----
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [Hello World!](https://dev.to/jssol/hello-world-4o12)
 <!-- BLOG-POST-LIST:END -->
